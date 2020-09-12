@@ -1,7 +1,7 @@
 ## Steps to run application
 
 1. Create database.
-2. Run the following commands
+2. Run the following commands</br>
     php artisan migrartion
     php artisan db:seed
  
