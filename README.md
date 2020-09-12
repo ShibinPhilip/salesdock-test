@@ -7,7 +7,8 @@
 3. Endpoint for list products is, {{url}}/api/get-products
     
 ## Assumptions
-Assuming that the listing should be a API endpoint and no UI needed.
+1. Assuming that the listing should be an API endpoint and no UI needed.
+2. Products should be listed based on each rules.
 
 
 
